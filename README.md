@@ -1,7 +1,6 @@
-# MysterRoomVR
-Group 4 VR game with google cardboard
-
-Team Member: 
+# CanYouEscapeVR
+# Group 4
+Team Members: 
  Brian Chambers
  Troy Daniello
  Alyona Karmazin
